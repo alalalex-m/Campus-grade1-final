@@ -1,0 +1,26 @@
+
+                                                                                                                                               
+                                                                                                                                               
+               AAA               lllllll                     XXXXXXX       XXXXXXX                    lllllll                AAA               
+              A:::A              l:::::l                     X:::::X       X:::::X                    l:::::l               A:::A              
+             A:::::A             l:::::l                     X:::::X       X:::::X                    l:::::l              A:::::A             
+            A:::::::A            l:::::l                     X::::::X     X::::::X                    l:::::l             A:::::::A            
+           A:::::::::A            l::::l xxxxxxx      xxxxxxxXXX:::::X   X:::::XXXxxxxxxx      xxxxxxx l::::l            A:::::::::A           
+          A:::::A:::::A           l::::l  x:::::x    x:::::x    X:::::X X:::::X    x:::::x    x:::::x  l::::l           A:::::A:::::A          
+         A:::::A A:::::A          l::::l   x:::::x  x:::::x      X:::::X:::::X      x:::::x  x:::::x   l::::l          A:::::A A:::::A         
+        A:::::A   A:::::A         l::::l    x:::::xx:::::x        X:::::::::X        x:::::xx:::::x    l::::l         A:::::A   A:::::A        
+       A:::::A     A:::::A        l::::l     x::::::::::x         X:::::::::X         x::::::::::x     l::::l        A:::::A     A:::::A       
+      A:::::AAAAAAAAA:::::A       l::::l      x::::::::x         X:::::X:::::X         x::::::::x      l::::l       A:::::AAAAAAAAA:::::A      
+     A:::::::::::::::::::::A      l::::l      x::::::::x        X:::::X X:::::X        x::::::::x      l::::l      A:::::::::::::::::::::A     
+    A:::::AAAAAAAAAAAAA:::::A     l::::l     x::::::::::x    XXX:::::X   X:::::XXX    x::::::::::x     l::::l     A:::::AAAAAAAAAAAAA:::::A    
+   A:::::A             A:::::A   l::::::l   x:::::xx:::::x   X::::::X     X::::::X   x:::::xx:::::x   l::::::l   A:::::A             A:::::A   
+  A:::::A               A:::::A  l::::::l  x:::::x  x:::::x  X:::::X       X:::::X  x:::::x  x:::::x  l::::::l  A:::::A               A:::::A  
+ A:::::A                 A:::::A l::::::l x:::::x    x:::::x X:::::X       X:::::X x:::::x    x:::::x l::::::l A:::::A                 A:::::A 
+AAAAAAA                   AAAAAAAllllllllxxxxxxx      xxxxxxxXXXXXXX       XXXXXXXxxxxxxx      xxxxxxxllllllllAAAAAAA                   AAAAAAA
+                                                                                                                                               
+                                                                                                                                               
+                                                                                                                                               
+                                                                                                                                               
+                                                                                                                                               
+                                                                                                                                               
+                                                                                                                                               
